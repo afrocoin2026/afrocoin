@@ -10,7 +10,7 @@
 [![ERC-20](https://img.shields.io/badge/Standard-ERC--20-blue?style=for-the-badge&logo=ethereum)](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 [![Solidity](https://img.shields.io/badge/Solidity-%5EM0.8.20-orange?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
 [![Total Supply](https://img.shields.io/badge/Total_Supply-106,188,667_USD-gold?style=for-the-badge)](https://github.com/afrocoin2026/afrocoin)
-
+ **Official Email:** [info@afrocoin.org](mailto:info@afrocoin.org)
 </div>
 
 ---
