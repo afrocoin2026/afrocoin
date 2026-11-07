@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![ERC-20](https://img.shields.io/badge/Standard-ERC--20-blue?style=for-the-badge&logo=ethereum)](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 [![Solidity](https://img.shields.io/badge/Solidity-%5EM0.8.20-orange?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
-[![Total Supply](https://img.shields.io/badge/Total_Supply-106,188,667_AFR-gold?style=for-the-badge)](https://github.com/afrocoin2026/afrocoin)
+[![Total Supply](https://img.shields.io/badge/Total_Supply-106,188,667_USD-gold?style=for-the-badge)](https://github.com/afrocoin2026/afrocoin)
 
 </div>
 
@@ -21,7 +21,7 @@
 * **Token Name:** Afrocoin
 * **Token Symbol:** AFR
 * **Blockchain Standard:** ERC-20 (Ethereum Network)
-* **Total Supply:** 106,188,667 AFR (Fixed & Deflationary Design)
+* **Total Supply:** 106,188,667 USD 
 * **Official Website:** [afrocoin.org](https://afrocoin.org)
 * **Deployer / Treasury Wallet:** `0x09ae2d267AF485a387f5495b6e2F7c427CD5d1a3`
 
@@ -30,7 +30,7 @@
 ## 🌍 Afrocoin (AFR): The Sovereign Digital Cash of the United States of Africa
 
 ### 💡 Core Vision: Bridging Monetary Sovereignty and Global Liquidity
-**Afrocoin (AFR)** is not just a speculative crypto asset, but a revolutionary *digital cash* instrument built to unite cross-border economies across Africa under a single guiding vision: the **United States of Africa**. With a fixed total supply of **106,188,667 AFR**, the token merges the philosophy of local monetary sovereignty with the speed, security, and reliability of global institutional-grade payment networks.
+**Afrocoin (AFR)** is not just a speculative crypto asset, but a revolutionary *digital cash* instrument built to unite cross-border economies across Africa under a single guiding vision: the **United States of Africa**. With a fixed total supply of **106,188,667 USD**, the token merges the philosophy of local monetary sovereignty with the speed, security, and reliability of global institutional-grade payment networks.
 
 ---
 
