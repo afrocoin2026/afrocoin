@@ -38,7 +38,7 @@
 To scale trust and compliance, Afrocoin integrates traditional institutional powerhouses with cutting-edge blockchain rails:
 
 1. **Deutsche Bank Integration:** Secures institutional-grade custody solutions, international trade settlements, and cross-continental liquidity management.
-2. **ABSA Bank Synergy:** Powers robust regional compliance, seamless fiat-to-crypto gateways, and widespread commercial adoption across African markets.
+2. **HSB Bank Synergy:** Powers robust regional compliance, seamless fiat-to-crypto gateways, and widespread commercial adoption across African markets.
 3. **Visa Network Ready:** Empowers millions of users to spend AFR instantly via global payment rails, merging decentralized sovereignty with everyday utility.
 
 ---
