@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 Afrocoin (AFR)
+# 🦁 Afrocoin (AFR0)
 ### **The Digital Cash & Sovereign Currency of the United States of Africa**
 
 <img src="COIN001.jpg" alt="Afrocoin 3D Gold Coin" width="300" />
@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Executive Summary for Investors
-**Afrocoin (AFR)** is strategically engineered to bridge continental monetary sovereignty with institutional-grade global finance. With a strictly limited total supply of **106,188,667 AFR**, the protocol unifies Africa's 54 emerging economies under a single, high-velocity digital cash framework supported by world-class banking standards.
+**Afrocoin (AFRO)** is strategically engineered to bridge continental monetary sovereignty with institutional-grade global finance. With a strictly limited total supply of **106,188,667 AFRO**, the protocol unifies Africa's 54 emerging economies under a single, high-velocity digital cash framework supported by world-class banking standards.
 
 * **Token Name:** Afrocoin
 * **Token Symbol:** AFR
@@ -30,7 +30,7 @@
 ## 🌍 Afrocoin (AFR): The Sovereign Digital Cash of the United States of Africa
 
 ### 💡 Core Vision: Bridging Monetary Sovereignty and Global Liquidity
-**Afrocoin (AFR)** is not just a speculative crypto asset, but a revolutionary *digital cash* instrument built to unite cross-border economies across Africa under a single guiding vision: the **United States of Africa**. With a fixed total supply of **106,188,667 AFR**, the token merges the philosophy of local monetary sovereignty with the speed, security, and reliability of global institutional-grade payment networks.
+**Afrocoin (AFRO)** is not just a speculative crypto asset, but a revolutionary *digital cash* instrument built to unite cross-border economies across Africa under a single guiding vision: the **United States of Africa**. With a fixed total supply of **106,188,667 AFRO**, the token merges the philosophy of local monetary sovereignty with the speed, security, and reliability of global institutional-grade payment networks.
 
 ---
 
